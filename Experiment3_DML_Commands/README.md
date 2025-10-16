@@ -92,6 +92,7 @@ WHERE product_id = 5;
 
 **Output:**
 
+<img width="1191" height="233" alt="image" src="https://github.com/user-attachments/assets/2561cd6d-207e-469a-a370-e1ecd0353046" />
 
 **Question 4**
 
